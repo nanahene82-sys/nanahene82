@@ -15,7 +15,7 @@ The Content Orchestration System is designed to manage 15 social media posts per
       ┌──────▼──┐  ┌──────▼──┐  ┌─────▼───┐  ┌────▼──────┐
       │  Trend  │  │ Content │  │Compliance│  │  Database │
       │ Scout   │  │ Creator │  │   Bot    │  │  & Queue  │
-      ��──────┬──┘  └──────┬──┘  └─────┬───┘  └────┬──────┘
+      └──────┬──┘  └──────┬──┘  └─────┬───┘  └────┬──────┘
              │            │            │           │
              └────────────┼────────────┼───────────┘
                           │
@@ -34,7 +34,7 @@ The Content Orchestration System is designed to manage 15 social media posts per
         │                 │                 │
     ┌───▼────┐      ┌─────▼──┐       ┌─────▼──┐
     │YouTube │      │ TikTok │       │Facebook│
-    └────────┘      └���───────┘       └────────┘
+    └────────┘      └────────┘       └────────┘
 ```
 
 ## Component Details
